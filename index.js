@@ -136,11 +136,7 @@ exo5 = async (searchParam, searchTerm) => {
     console.log(response.status);
 };
 
-// exo5 = async (term) => {
-//     console.log("solution de l'exercise 5");
 
-//     exo1(term);
-// };
 
 exo1();
 // exo2();
